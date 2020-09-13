@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanqing Zhong"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yanqing Zhong"
 description              : &description "Graduate at University of Sydney"
