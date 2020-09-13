@@ -1,5 +1,5 @@
 ---
-title: "Factors affecting the rate of unemployment in G7 countries"
+title: "Applied project based on the paper by Levitt"
 collection: thesis
 
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
