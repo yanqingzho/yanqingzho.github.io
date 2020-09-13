@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /yanqingzho.github.io/files/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-paperurl:https://yanqingzho.github.io/files/CV.pdf
+paperurl:https://
 
 
 
