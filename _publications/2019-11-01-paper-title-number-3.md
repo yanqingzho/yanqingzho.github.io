@@ -7,5 +7,3 @@ paperurl: 'http://yanqingzho.github.io/files/Qantas.pdf'
 ---
 
 
-[Download paper here](http://yanqingzho.github.io/files/Qantas.pdf)
-
