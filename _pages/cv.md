@@ -11,7 +11,7 @@ redirect_from:
 
 
 ======
-* https://yanqingzho.github.io/files/CV.pdf
+paperurl:https://yanqingzho.github.io/files/CV.pdf
 
 
 
