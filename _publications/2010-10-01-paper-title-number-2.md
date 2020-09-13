@@ -1,5 +1,6 @@
 ---
 title: "Factors affecting the rate of unemployment in G7 countries"
+collection: thesis
 
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 
