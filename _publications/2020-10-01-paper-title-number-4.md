@@ -5,6 +5,3 @@ collection: thesis
 paperurl: 'http://yanqingzho.github.io/files/Factors.pdf'
 
 ---
-
-
-[Download paper here](http://yanqingzho.github.io/files/Factors.pdf)
