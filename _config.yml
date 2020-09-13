@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yanqing Zhong"
-description              : &description "Graduate at University of Sydney"
+description              : &description "Postgraduate at University of Sydney"
 url                      : https://yanqingzho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanqingzho.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanqing Zhong"
   avatar           : "profile.png"
-  bio              : "Graduate at University of Sydney"
+  bio              : "Postgraduate at University of Sydney"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
