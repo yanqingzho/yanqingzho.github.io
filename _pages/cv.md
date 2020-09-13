@@ -12,7 +12,7 @@ redirect_from:
 
 Education	Education  
 
-excerpt: https://yanqingzho.github.io/cv/
+ https://yanqingzho.github.io/cv/
 
 
 
