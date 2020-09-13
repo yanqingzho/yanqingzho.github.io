@@ -7,9 +7,9 @@ author_profile: true
 redirect_from:
   - /resume
   
----
+
 
 excerpt: https://yanqingzho.github.io/cv/
 
 
-
+---
