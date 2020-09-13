@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Yanqing Zhong's academic website. 
-https://yanqingzho.github.io/files/CV.pdf
+
