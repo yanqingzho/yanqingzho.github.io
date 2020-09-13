@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download paper here](https://yanqingzho.github.io/files/CV.pdf)
+[Download cv here](https://yanqingzho.github.io/files/CV.pdf)
 
 
 
