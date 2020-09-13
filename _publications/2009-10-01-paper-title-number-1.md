@@ -7,7 +7,7 @@ paperurl: 'http://yanqingzho.github.io/files/Research.pdf'
 ---
 
 
-[Download paper here](http://yanqingzho.github.io/files/Research.pdf)
+
 
 
 
