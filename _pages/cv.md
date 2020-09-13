@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
   
- paperurl: 'https://yanqingzho.github.io/files/CV.pdf' 
-  
+
 ---
 
 {% include base_path %}
