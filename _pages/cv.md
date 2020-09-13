@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-======
-
 paperurl:https://yanqingzho.github.io/files/CV.pdf
 
 
