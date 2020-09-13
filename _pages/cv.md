@@ -9,7 +9,7 @@ redirect_from:
   
 ---
 
-https://yanqingzho.github.io/cv/
+excerpt: https://yanqingzho.github.io/cv/
 
 
 
