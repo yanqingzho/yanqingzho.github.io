@@ -2,10 +2,9 @@
 title: "Applied project based on the paper by Levitt"
 collection: thesis
 
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://yanqingzho.github.io/files/Applied.pdf'
 
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://yanqingzho.github.io/files/Applied.pdf)
 
